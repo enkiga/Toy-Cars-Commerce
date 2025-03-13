@@ -32,8 +32,8 @@ To install and run the project on your local machine, follow these steps:
 1. **Clone the repository**:
 
    ```sh
-   git clone <repository-url>
-   cd product_listing
+   git clone https://github.com/enkiga/Toy-Cars-Commerce
+   cd Toy-Cars-Commerce
    ```
 
 2. **Install dependencies**:
